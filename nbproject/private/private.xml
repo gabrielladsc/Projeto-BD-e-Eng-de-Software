@@ -3,14 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/Model/Produz.java</file>
-            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/View/TelaPrincipal.java</file>
             <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/View/CadastroDeEncomenda.java</file>
-            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/Dao/ProduzDao.java</file>
-            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/View/CadastroDeFuncionario.java</file>
+            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/Dao/FuncionarioDao.java</file>
             <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/Controller/PDFUtil.java</file>
-            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/View/CadastroDeBrinquedo.java</file>
-            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/View/ExcluirFuncionario.java</file>
+            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/Model/Encomenda.java</file>
+            <file>file:/C:/Users/gabi0/Desktop/Projeto%20BD%20e%20Eng%20de%20Software%20-%20Easy%20Toy/EasyToyRelatorio/src/Dao/EncomendaDao.java</file>
         </group>
     </open-files>
 </project-private>
