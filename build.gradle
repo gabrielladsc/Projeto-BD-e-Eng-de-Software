@@ -3,7 +3,7 @@ apply plugin: 'java'
 //Permite que será gerado o bin
 apply plugin: 'application'
 //Especifica para a Application qual é a main class
-mainClassName = 'C:\Users\gabi0\Desktop\Projeto BD e Eng de Software - Easy Toy\EasyToyRelatorio\src\main\EasyToy\'
+mainClassName = 'main.EasyToy'
 //Informa onde será buscado as dependências
 repositories {
     mavenCentral()
@@ -18,7 +18,7 @@ sourceSets{
 jar {
 	manifest {
 		attributes(
-			'Main-Class': 'C:\Users\gabi0\Desktop\Projeto BD e Eng de Software - Easy Toy\EasyToyRelatorio\src\main\EasyToy\'
+			'Main-Class': 'main.EasyToy'
 		)
 	}
 }
